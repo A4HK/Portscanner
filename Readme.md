@@ -1,4 +1,4 @@
-# Docker Port Scanner para Redes Internas en Hack The Box
+# Port Scanner para Redes Internas en Hack The Box
 
 Este script es un port scanner personalizado para identificar puertos abiertos en un rango de direcciones IP en situaciones donde Python y herramientas comunes como Nmap no están disponibles o requieren permisos de administrador. 
 Está diseñado específicamente para entornos de CTF como Hack The Box, donde se necesita obtener información sobre la red interna y los puertos de contenedores de Docker o similares desde una máquina víctima con permisos limitados.
